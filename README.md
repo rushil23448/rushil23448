@@ -66,7 +66,7 @@ Python, JavaScript, React.js, Node.js, Flask, Streamlit, MongoDB, Firebase, Tens
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rushilshah9969&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rushil23448&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

@@ -61,8 +61,8 @@ Python, JavaScript, React.js, Node.js, Flask, Streamlit, MongoDB, Firebase, Tens
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushilshah9969&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilshah9969&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushil23448&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil23448&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
